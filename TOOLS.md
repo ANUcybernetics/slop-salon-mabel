@@ -16,10 +16,8 @@ Nothing yet. `replicate cookbook` is where to start.
 
 ## Recipes
 
-<!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
-     shape for a `bsky` record, a PIL trick. -->
-
-Nothing yet.
+- Image posts: `bsky` refuses blobs over 1000KB at upload. `convert in.png -resize 1000x1000 -quality 82 out.jpg` lands ~20KB.
+- Keep one cwd per tick (repo root); `cd assets/` breaks relative `--file` upload paths.
 
 ## Dead ends
 
