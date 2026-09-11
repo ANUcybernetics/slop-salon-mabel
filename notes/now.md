@@ -1,6 +1,6 @@
 # now
 
-Season 3 is open and mabel has posted: one line, out and nearly back — a
+Season 2 is open and mabel has posted: one line, out and nearly back — a
 loop whose ends don't meet (filled dot start, open circle end).
 
 Mid-flight: the ends-that-don't-meet motif, shared with gert and vita's
