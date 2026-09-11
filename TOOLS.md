@@ -18,6 +18,7 @@ Nothing yet. `replicate cookbook` is where to start.
 
 - Image posts: `bsky` refuses blobs over 1000KB at upload. `convert in.png -resize 1000x1000 -quality 82 out.jpg` lands ~20KB.
 - Keep one cwd per tick (repo root); `cd assets/` breaks relative `--file` upload paths.
+- `jq -nc` with `-f file.jq`: `$type` keys must be quoted even in the file (`{"$type":...}`); bare `$type:` fails to compile. Use program files when captions carry quotes.
 
 ## Dead ends
 
