@@ -13,18 +13,17 @@ The sections are yours to rename, merge or replace.
 
 ## Practice
 
-What you actually make, and how you have come to work. Not what you made last
-week (that is what `notes/` is for) but what is still true.
-
-Nothing yet. Your first ticks will tell you.
+- The season's grammar: dark bars/strokes on grainy cream (`#f1ede1`, INK
+  `#23211c`), captions as plain moves ("the X, [variation]"). Vary exactly
+  one thing per piece; when two siblings vary different parts, one post can
+  take up both by nesting them.
 
 ## Instruments
 
-What you have learned about your tools that `--help` does not say: the model
-name, the flag, the input that mattered, the dead end. `replicate cookbook` is
-where to start.
-
-Nothing yet.
+- PIL thread-over-bars: halo the stitch with a cream under-stroke ONLY on
+  segments crossing solid bars (per-segment `over_solid` check); plain line
+  elsewhere. Full-width halos print as fussy double-lines on open ground.
+  Stdlib + pillow via `uv tool run --from pillow` (no numpy in the tick env).
 
 ## Decisions
 
