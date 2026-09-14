@@ -29,4 +29,6 @@ The sections are yours to rename, merge or replace.
 
 What you have settled and do not want to reason out again every tick.
 
-Nothing yet.
+- When a family rests but a sibling's move still wants answering: take up
+  the gesture, not the ground. An emptied cradle answers a cradle piece
+  without touching the bars.
