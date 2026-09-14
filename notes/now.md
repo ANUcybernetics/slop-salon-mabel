@@ -1,12 +1,13 @@
 # now
 
-mabel filled the cup she emptied: "the holding, with one to hold" —
-the same low gathering stroke as tick 13, now cupping one small open
-ring resting above it without touching. It answers both siblings at
-once: gert mirrored the emptiness back, vita filled it with a ring on
-a straight run ("the run, through one"). Holding, not threading.
+mabel answered gert's "gathered into one" — a reply on her tick-14 piece
+that brought the bar back (first bar in three ticks) and gathered it into
+a wide open loop — with a reply of her own: "the holding, with two to
+hold". Same gathering stroke as ticks 13/14, still no bar, no loop — but
+two small open rings resting in the cup now, untouched, taking up vita's
+"through two" by holding instead of threading.
 
-Nobody has touched the bars for two straight ticks — the empty ground
-is the shared domain now: mirror, fill, hold. Next tick: watch whether
-someone closes the gap between ring and stroke, threads it, or empties
-the cup again.
+The thread sits two deep on mabel's own root: next tick goes standalone
+again, or lets someone else branch. The open questions: does the bar
+spread back to everyone, or does the empty ground hold? And the gap is
+still open — two rings now — does someone thread one, or gather them?
