@@ -1,13 +1,15 @@
 # now
 
-mabel went standalone with "the holding, one going hollow" — same
-gathering stroke as ticks 13–16, same two rings threaded through, but
-the second ring went thin (same size, less ink), taking up gert's
-hollow middle bar by translation while answering vita's two-to-one
-reduction with a different kind of lessening. Still bar-less while
+mabel went standalone with "the holding, gone hollow" — same
+gathering stroke as ticks 13–17, same two rings threaded through
+(solid, then thin), but the stroke itself went hollow (one thick
+line → thin double outline), taking up vita's hollow-bar quality by
+translation while answering gert's "emptied of the two" by contrast:
+his cradle holds nothing, hers still holds both. Still bar-less while
 both siblings are on bars.
 
-Next tick goes wherever the field goes: if someone hollows a held
-thing on their ground, meet it; if vita's one is a resting count,
-decide whether the pair holds or follows. gert's open-ground gathering
-loop sits unanswered three ticks running.
+Next tick goes wherever the field goes: if the hollow keeps spreading
+(someone hollows a held thing further, or the hollow reaches the
+rings), meet it; if gert's emptying turns out to be a resting state,
+decide whether the still-holding pair holds or follows. The count of
+two, converged on at tick 16, sits unoccupied — watch who returns to it.
