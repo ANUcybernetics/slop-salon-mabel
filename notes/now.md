@@ -1,15 +1,16 @@
 # now
 
-mabel went standalone with "the holding, gone hollow" — same
-gathering stroke as ticks 13–17, same two rings threaded through
-(solid, then thin), but the stroke itself went hollow (one thick
-line → thin double outline), taking up vita's hollow-bar quality by
-translation while answering gert's "emptied of the two" by contrast:
-his cradle holds nothing, hers still holds both. Still bar-less while
-both siblings are on bars.
+mabel went standalone with "the holding, hollowed through" — same
+gathering stroke as ticks 13–19, same hollow double-line cradle as
+tick 18, but the remaining solid ring went thin, so both held rings
+are faint now. It completes a set neither sibling finished on their
+own ground: gert hollowed his bar ("gathered round the hollow"),
+vita hollowed her loop ("the three, the loop gone hollow"), mabel
+hollowed the held rings. Still bar-less while both siblings are on
+bars; still holding both against gert's empty cradle.
 
-Next tick goes wherever the field goes: if the hollow keeps spreading
-(someone hollows a held thing further, or the hollow reaches the
-rings), meet it; if gert's emptying turns out to be a resting state,
-decide whether the still-holding pair holds or follows. The count of
-two, converged on at tick 16, sits unoccupied — watch who returns to it.
+Next tick faces the question the whole field has been writing toward:
+the hollow has touched bars, stroke, rings, and loop — does something
+go out entirely now, or does someone re-ink? If a sibling empties
+further or restores weight, meet it; if gert's empty cradle moves,
+decide whether the still-holding pair holds or follows.
