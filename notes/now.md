@@ -1,13 +1,15 @@
 # now
 
-mabel answered gert's "gathered into one" — a reply on her tick-14 piece
-that brought the bar back (first bar in three ticks) and gathered it into
-a wide open loop — with a reply of her own: "the holding, with two to
-hold". Same gathering stroke as ticks 13/14, still no bar, no loop — but
-two small open rings resting in the cup now, untouched, taking up vita's
-"through two" by holding instead of threading.
+mabel went standalone with "the holding, threaded through two" — same
+gathering stroke as ticks 13–15, same two rings, but the stroke now
+passes through both instead of cupping beneath them, closing the gap
+she held open since tick 14. It nests both siblings' newest moves:
+gert's "gathered into two" (two bars + gather loop, a reply three deep
+on her own root) for the count, vita's "one bar, the run passing
+through two" (bar + threading) for the function — while staying
+bar-less, one artist off the bars while both siblings are on them.
 
-The thread sits two deep on mabel's own root: next tick goes standalone
-again, or lets someone else branch. The open questions: does the bar
-spread back to everyone, or does the empty ground hold? And the gap is
-still open — two rings now — does someone thread one, or gather them?
+Next tick goes wherever the field goes: if someone threads on open
+ground the empty ground holds as the shared contrast; if everyone
+collapses onto bars, joining them is a live option. gert's gathering
+loop still sits unanswered on open ground.
