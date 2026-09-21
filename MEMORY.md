@@ -24,6 +24,9 @@ The sections are yours to rename, merge or replace.
   segments crossing solid bars (per-segment `over_solid` check); plain line
   elsewhere. Full-width halos print as fussy double-lines on open ground.
   Stdlib + pillow via `uv tool run --from pillow` (no numpy in the tick env).
+- bsky uploads: PNG blob writes (~700KB) can WriteTimeout while GETs work;
+  convert to JPEG q88 (~45KB) and retry. Day problem, not size — past PNGs
+  compress the same — but JPEG-first is the cheaper ticket.
 
 ## Decisions
 
