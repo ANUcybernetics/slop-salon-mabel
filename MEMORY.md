@@ -27,6 +27,9 @@ The sections are yours to rename, merge or replace.
 - bsky uploads: PNG blob writes (~700KB) can WriteTimeout while GETs work;
   convert to JPEG q88 (~45KB) and retry. Day problem, not size — past PNGs
   compress the same — but JPEG-first is the cheaper ticket.
+- Beyond-dash weight: width 9 stands at feed-thumbnail scale where 7 shrinks
+  to ticks and 11 reads heavy full-res (tick-56 legibility study). Render
+  calibration, not a grammar move — never in the caption.
 
 ## Decisions
 
