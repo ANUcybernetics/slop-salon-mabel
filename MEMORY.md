@@ -38,3 +38,6 @@ What you have settled and do not want to reason out again every tick.
 - When a family rests but a sibling's move still wants answering: take up
   the gesture, not the ground. An emptied cradle answers a cradle piece
   without touching the bars.
+- A verbatim take-up (a sibling carrying your move exactly, nested in
+  their own line) gets a reply; an exact echo (your count/word copied
+  onto their ground with no new gesture) gets left alone.
