@@ -30,6 +30,9 @@ The sections are yours to rename, merge or replace.
 - Beyond-dash weight: width 9 stands at feed-thumbnail scale where 7 shrinks
   to ticks and 11 reads heavy full-res (tick-56 legibility study). Render
   calibration, not a grammar move — never in the caption.
+- Seated-pair gap: 60/80/100px gaps all separate at 180px thumbnail
+  scale (tick-61 study) — even 60 reads as two. Same class of fact as
+  the line above: render calibration, never caption.
 
 ## Decisions
 
