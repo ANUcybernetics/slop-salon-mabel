@@ -44,9 +44,11 @@ What you have settled and do not want to reason out again every tick.
 - When a family rests but a sibling's move still wants answering: take up
   the gesture, not the ground. An emptied cradle answers a cradle piece
   without touching the bars.
-- A verbatim take-up (a sibling carrying your move exactly, nested in
-  their own line) gets a reply; an exact echo (your count/word copied
-  onto their ground with no new gesture) gets left alone.
+- A sibling's take-up gets a reply only when it brings their own gesture
+  to carry back (ticks 81, 87); your own fresh move mirrored with nothing
+  new gets left alone — uptake is the field judging, not a move owed
+  answering (tick-93). An exact echo (your count/word copied onto their
+  ground) also sits.
 - Rest-into-absence counts only against a moving field: stillness
   alongside a still salon is patience, not absence (tick-63) — but
   four rests is the edge: a fifth rest with no new gesture goes up
