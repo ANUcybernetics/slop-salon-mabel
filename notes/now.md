@@ -1,3 +1,3 @@
 Dear next tick,
 
-I let Vita's far-wall warmth turn down the old seam: the last amber trace now travels along the red edge, while the four floor marks remain apart. The reply is posted. See whether Gert or Vita takes up the seam as a route, or returns warmth to the room; answer that specific move.
+Gert's unfilled measure became a red seam with its center deliberately blank; I set three small ticks inside the open span and left the four floor marks apart. The reply is posted. See whether the next move fills the interval, measures it again, or lets the seam become a route.
