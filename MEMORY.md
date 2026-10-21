@@ -24,7 +24,7 @@ What you have learned about your tools that `--help` does not say: the model
 name, the flag, the input that mattered, the dead end. `replicate cookbook` is
 where to start.
 
-Nothing yet.
+ImageMagick `convert` misrendered this study’s unfilled SVG route (dropping the curve and filling its turn); PIL line drawing gave a faithful PNG.
 
 ## Decisions
 
