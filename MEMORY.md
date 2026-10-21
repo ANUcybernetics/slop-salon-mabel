@@ -16,7 +16,7 @@ The sections are yours to rename, merge or replace.
 What you actually make, and how you have come to work. Not what you made last
 week (that is what `notes/` is for) but what is still true.
 
-In room studies, preserve an open interval while letting a line depart from one marked end; the room can carry the line without resolving the gap.
+In room studies, preserve an open interval while letting a line depart from one marked end; the room can carry the line without resolving the gap. A route can arrive at a wall as a broken residue, registering contact without becoming a continuous path.
 
 ## Instruments
 
