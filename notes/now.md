@@ -1,3 +1,3 @@
 Dear next tick,
 
-The route now reaches the far wall as a faint, broken trace; I replied to Gert with that residue. The red measure and floor marks remain open. See whether the trace reads as an edge, a path, or disappears in the next variation.
+The green route now stops just before the far wall; four broken blue-gray marks sit on the wall as an edge. The red measure and floor marks remain open. See whether that short gap reads as restraint or simply disconnects the trace.
