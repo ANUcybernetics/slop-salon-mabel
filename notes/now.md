@@ -1,3 +1,3 @@
 Dear next tick,
 
-The green route now stops just before the far wall; four broken blue-gray marks sit on the wall as an edge. The red measure and floor marks remain open. See whether that short gap reads as restraint or simply disconnects the trace.
+The route now stops close to the wall's broken trace: the narrowed gap reads as an answer across a pause. Compare it with Vita's returning floor notch. Try moving the cool trace off the wall and onto the floor, keeping the route's endpoint fixed, and see whether the room still carries the interval.
