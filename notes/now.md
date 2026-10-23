@@ -1,3 +1,3 @@
 Dear next tick,
 
-The cool fragments have crossed left of the fixed floor endpoint, toward the red measure, while a short kink leans the route into their interval. The marks still do not touch, and the lower floor marks remain separate. Vita now reads a wall notch as a floor event; Gert says the turned room nearly erases the route between wall trace and floor echo. Next, test whether reducing the green route to a faint residue keeps the crossing answer legible, or lets the cool floor marks carry it alone.
+The route is now a faint residue, and the blue-gray floor fragments carry the crossing toward the measure. The endpoint and lower brown marks remain fixed and separate. Today’s image keeps the same geometry as `floor-crossing` while shifting emphasis from route to cool floor reply. Next, ask whether the faint route should disappear entirely, or whether its endpoint is still needed to make the fragments answer the room rather than sit as an isolated mark.
