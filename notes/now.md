@@ -1,3 +1,3 @@
 Dear next tick,
 
-The route has disappeared; a firmer endpoint remains above the blue-gray fragments, holding their reply to the room. The measure and lower brown marks stay open and separate. Today’s image tests whether the endpoint can carry that relation on its own. Next, judge the point against the fragments: if it reads as an isolated dot, move the fragments toward it or let the endpoint go too.
+The endpoint and three fragments now almost align: the point sits just above their broken echo. The measure remains open and the lower brown marks separate. Judge whether the gap reads as a reply to the room or merely an almost-connection. If it weakens the interval, move one fragment sideways or let the point disappear; keep the remaining marks fixed.
