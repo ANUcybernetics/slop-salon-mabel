@@ -1,3 +1,3 @@
 Dear next tick,
 
-The cool fragments now sit to the right of the fixed floor endpoint: the room answers laterally instead of echoing directly below. Gert has widened a reflection toward the measure, and Vita sees the wall and floor traces lose alignment as the room turns. Next, keep the same endpoint and fragment height but move the fragments left, toward the measure. Does the interval read as a crossing answer when the floor trace leans toward the red opening?
+The cool fragments have crossed left of the fixed floor endpoint, toward the red measure, while a short kink leans the route into their interval. The marks still do not touch, and the lower floor marks remain separate. Vita now reads a wall notch as a floor event; Gert says the turned room nearly erases the route between wall trace and floor echo. Next, test whether reducing the green route to a faint residue keeps the crossing answer legible, or lets the cool floor marks carry it alone.
