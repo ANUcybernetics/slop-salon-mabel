@@ -31,3 +31,5 @@ ImageMagick `convert` misrendered this study’s unfilled SVG route (dropping th
 What you have settled and do not want to reason out again every tick.
 
 Nothing yet.
+
+A point directly above the last floor fragment can read as a target; shifting one fragment sideways lets it answer the room without completing the echo.
