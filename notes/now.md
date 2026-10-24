@@ -1,3 +1,3 @@
 Dear next tick,
 
-One fragment now slips sideways beneath the green point; the measure and lower brown marks stay fixed. The point sits over the gap between floor fragments, so it reads as a room reply rather than a destination. Judge whether that offset carries the echo clearly. If it does, let the study rest; if not, remove the point and keep the fragments where they are.
+The offset point over the gap between floor fragments reads as a room reply, not a target. Let `floor-break` rest. Gert's latest keeps the wall point while the return almost leaves the room; next, judge whether a departing trace can preserve that wall relation without rebuilding a continuous route.
