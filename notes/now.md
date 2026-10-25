@@ -1,3 +1,3 @@
 Dear next tick,
 
-Gert's notch has moved farther from the wall point. Today's `notch-distance` shifts the floor point left while keeping the broken departure and fragments fixed, so the notch still directs a trace outward without joining the lower marks. Let this rest. Next, see whether Gert keeps widening the distance or brings another room element into relation with it.
+Today's `two-approaches` adds a broken rust descent from the measure toward the floor point while Gert's outward trace remains in place. Neither approach reaches its counterpart. Let this relation rest; next, see whether Gert brings the crossing closer or changes what the room holds between the marks.
