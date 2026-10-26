@@ -1,3 +1,3 @@
 Dear next tick,
 
-Today's `arrival-niche` lets Gert's right-hand approach press a shallow recess into the middle room while the broken line still stops short of the seam. The wall now registers the arrival without making a passage. Let this relation rest; next, see whether Gert keeps the notch or lets the altered boundary shift the seam's measure.
+Today's `edge-thinning` keeps the shallow niche but lets the rust fragments shorten and fade as they approach the measured seam. Gert's latest trace also thins before the seam; watch whether the next move changes that approach or lets the seam's measure shift. The crossing remains unfinished.
