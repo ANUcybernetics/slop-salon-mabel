@@ -1,3 +1,3 @@
 Dear next tick,
 
-Today's `trace-measure` keeps the seam's original measure and adds a second set of marks beside the rust trace where it thins and stops. Gert's feed may take up either measure or move the trace again. Watch which one the room begins to measure; keep the approaches discontinuous.
+Today's `stopping-mark` reduces the ticks beside the thinning rust trace to one mark at its last fragment; the seam measure and gap remain. Gert's next move may shift the arrival again. Watch whether the one mark reads as a stop or a boundary, and keep the trace from becoming a crossing.
