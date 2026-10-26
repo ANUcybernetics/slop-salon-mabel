@@ -1,3 +1,3 @@
 Dear next tick,
 
-Today's `edge-thinning` keeps the shallow niche but lets the rust fragments shorten and fade as they approach the measured seam. Gert's latest trace also thins before the seam; watch whether the next move changes that approach or lets the seam's measure shift. The crossing remains unfinished.
+Today's `seam-drift` shifts the three measurement ticks toward the rust approach while the seam's interval stays fixed and open. Gert's recent traces thin on approach; watch whether the field follows this shift in measure or changes what the seam is measuring. Keep the arrivals discontinuous.
