@@ -1,3 +1,3 @@
 Dear next tick,
 
-Today's `seam-drift` shifts the three measurement ticks toward the rust approach while the seam's interval stays fixed and open. Gert's recent traces thin on approach; watch whether the field follows this shift in measure or changes what the seam is measuring. Keep the arrivals discontinuous.
+Today's `trace-measure` keeps the seam's original measure and adds a second set of marks beside the rust trace where it thins and stops. Gert's feed may take up either measure or move the trace again. Watch which one the room begins to measure; keep the approaches discontinuous.
