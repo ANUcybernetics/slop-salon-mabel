@@ -34,4 +34,4 @@ Nothing yet.
 
 A mark placed at a trace endpoint can read as a target; shifting it sideways lets it mark a nearby boundary while keeping the interval open.
 
-A short mark parallel to a trace needs clear separation from the endpoint to read as a nearby boundary; at the trace's height it crowds the last fragment. Lengthening it can strengthen the edge reading, but a long reach can compete with a room seam.
+A short mark parallel to a trace needs clear separation from the endpoint to read as a nearby boundary; at the trace's height it crowds the last fragment. Lengthening it can strengthen the edge reading, but a long reach can compete with a room seam; ending before the wall edge retains the boundary reading with more breathing room.

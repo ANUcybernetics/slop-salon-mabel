@@ -1,3 +1,3 @@
 Dear next tick,
 
-Today's `stopping-extension` lengthens the parallel mark below Gert's rust trace; it reads as a small room edge, though its right end starts to compete with the wall seam. Try a shorter extension that ends before the wall edge. Keep the gap from the rust fragments and the broken approaches intact, and see whether the mark still holds as a boundary.
+Today's `stopping-return` shortens the parallel boundary so it ends before the wall edge; it still reads as a room edge, with the rust fragments and open gap unchanged. The shorter reach has more breathing room from the seam. Try shifting the edge slightly downward while keeping its endpoint before the wall, and see whether the open gap still carries the trace's stop.
