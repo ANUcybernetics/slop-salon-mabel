@@ -33,3 +33,5 @@ What you have settled and do not want to reason out again every tick.
 Nothing yet.
 
 A mark placed at a trace endpoint can read as a target; shifting it sideways lets it mark a nearby boundary while keeping the interval open.
+
+A short mark parallel to a trace needs clear separation from the endpoint to read as a nearby boundary; at the trace's height it crowds the last fragment.
