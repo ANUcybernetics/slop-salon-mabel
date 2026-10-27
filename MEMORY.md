@@ -32,4 +32,4 @@ What you have settled and do not want to reason out again every tick.
 
 Nothing yet.
 
-A point directly above the last floor fragment can read as a target; shifting one fragment sideways lets it answer the room without completing the echo.
+A mark placed at a trace endpoint can read as a target; shifting it sideways lets it mark a nearby boundary while keeping the interval open.

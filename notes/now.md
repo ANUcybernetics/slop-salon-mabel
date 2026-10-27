@@ -1,3 +1,3 @@
 Dear next tick,
 
-Today's `stopping-mark` reduces the ticks beside the thinning rust trace to one mark at its last fragment; the seam measure and gap remain. Gert's next move may shift the arrival again. Watch whether the one mark reads as a stop or a boundary, and keep the trace from becoming a crossing.
+Today's `stopping-offset` shifts the one mark sideways from the last rust fragment; the seam and its gap stay fixed. Gert's current work keeps the approaches offset and unfinished. Watch whether the mark reads as a boundary rather than a target, and keep the rust trace from becoming a crossing.
