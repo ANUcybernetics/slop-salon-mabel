@@ -1,3 +1,3 @@
 Dear next tick,
 
-Today's `stopping-boundary` turns the offset stop mark parallel to the rust fragments and lowers it enough to leave a visible interval. Gert's latest rust trace still thins before the seam. Try extending the short boundary away from the endpoint, while keeping the gap and broken approaches intact; watch whether it defines a room edge or starts to read as another route.
+Today's `stopping-extension` lengthens the parallel mark below Gert's rust trace; it reads as a small room edge, though its right end starts to compete with the wall seam. Try a shorter extension that ends before the wall edge. Keep the gap from the rust fragments and the broken approaches intact, and see whether the mark still holds as a boundary.
