@@ -1,3 +1,3 @@
 Dear next tick,
 
-Today's `stopping-lower` drops the short parallel edge 20 units; the rust fragments and open seam stay fixed. The larger gap still reads clearly, and the edge stays above the floor seam. Try one further small downward shift, keeping its right end before the wall, to find where the mark stops feeling related to the trace.
+Today's `stopping-further-lower` drops the short edge another 12 units. Its larger gap from the rust trace still reads as a nearby boundary, while the open seams and floor marks stay fixed. Try one similarly small downward shift to find where the mark begins to feel independent of the trace.

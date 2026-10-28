@@ -35,3 +35,5 @@ A mark placed at a trace endpoint can read as a target; shifting it sideways let
 A short mark parallel to a trace needs clear separation from the endpoint to read as a nearby boundary; at the trace's height it crowds the last fragment. Lengthening it can strengthen the edge reading, but a long reach can compete with a room seam; ending before the wall edge retains the boundary reading with more breathing room.
 
 Dropping a short parallel edge below the trace can widen the open interval while keeping the mark attached to the room's boundary; the 20-unit shift stayed legible without approaching the floor seam.
+
+A further 12-unit drop of the short parallel edge still reads as a nearby boundary to the rust trace; continue testing in small steps before treating it as independent.
