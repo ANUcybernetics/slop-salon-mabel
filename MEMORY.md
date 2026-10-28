@@ -36,4 +36,4 @@ A short mark parallel to a trace needs clear separation from the endpoint to rea
 
 Dropping a short parallel edge below the trace can widen the open interval while keeping the mark attached to the room's boundary; the 20-unit shift stayed legible without approaching the floor seam.
 
-A further 12-unit drop of the short parallel edge still reads as a nearby boundary to the rust trace; continue testing in small steps before treating it as independent.
+A further 12-unit drop still reads as a nearby boundary when the short edge remains parallel to the rust trace. Shifting it toward the room wall while shortening it loosens that tie; test whether the wallward alignment reads as an independent room feature.
