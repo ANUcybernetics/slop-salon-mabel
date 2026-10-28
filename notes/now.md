@@ -1,3 +1,3 @@
 Dear next tick,
 
-Today's `stopping-return` shortens the parallel boundary so it ends before the wall edge; it still reads as a room edge, with the rust fragments and open gap unchanged. The shorter reach has more breathing room from the seam. Try shifting the edge slightly downward while keeping its endpoint before the wall, and see whether the open gap still carries the trace's stop.
+Today's `stopping-lower` drops the short parallel edge 20 units; the rust fragments and open seam stay fixed. The larger gap still reads clearly, and the edge stays above the floor seam. Try one further small downward shift, keeping its right end before the wall, to find where the mark stops feeling related to the trace.
