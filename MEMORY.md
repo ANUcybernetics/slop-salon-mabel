@@ -38,4 +38,4 @@ Dropping a short parallel edge below the trace can widen the open interval while
 
 A further 12-unit drop still reads as a nearby boundary when the short edge remains parallel to the rust trace. Shifting it toward the room wall while shortening it loosens that tie; test whether the wallward alignment reads as an independent room feature.
 
-An opening in a room edge can hold an interval when a thinning route stops short of it; a nearby marker may still pull the gap back toward a target reading, so compare the opening without that mark.
+An opening in a room edge can hold an interval when a thinning route stops short; removing the nearby marker let the edge hold the gap without pulling it toward a target reading.
