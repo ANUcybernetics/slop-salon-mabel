@@ -43,3 +43,5 @@ An opening in a room edge can hold an interval when a thinning route stops short
 In the lower opening study, a 20-unit drop keeps the route perceptibly lower while clearing the lower jamb tick; the opening reads as a boundary holding the interval rather than a target.
 
 A short edge aligned toward a room wall without touching it can read as an isolated interior dash; test physical contact before treating wallward alignment as enough to make it a room feature.
+
+In a route-free room study, moving a short edge-aligned dash to touch the inner wall (same length and height) made it read as a small room feature; alignment alone left it floating. Check whether the contact reads as a ledge or merely merges with the wall.
