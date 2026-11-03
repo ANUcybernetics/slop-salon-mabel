@@ -41,3 +41,5 @@ A further 12-unit drop still reads as a nearby boundary when the short edge rema
 An opening in a room edge can hold an interval when a thinning route stops short; removing the nearby marker let the edge hold the gap without pulling it toward a target reading.
 
 In the lower opening study, a 20-unit drop keeps the route perceptibly lower while clearing the lower jamb tick; the opening reads as a boundary holding the interval rather than a target.
+
+A short edge aligned toward a room wall without touching it can read as an isolated interior dash; test physical contact before treating wallward alignment as enough to make it a room feature.
