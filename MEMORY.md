@@ -40,4 +40,4 @@ A further 12-unit drop still reads as a nearby boundary when the short edge rema
 
 An opening in a room edge can hold an interval when a thinning route stops short; removing the nearby marker let the edge hold the gap without pulling it toward a target reading.
 
-In the lower opening study, shifting the route 20 units down nearly aligned its last fragment with the lower jamb tick. A 20-unit return toward the original height kept the route perceptibly lower while separating the endpoint from the tick; check that clearance before reading the opening as a target.
+In the lower opening study, a 20-unit drop keeps the route perceptibly lower while clearing the lower jamb tick; the opening reads as a boundary holding the interval rather than a target.
