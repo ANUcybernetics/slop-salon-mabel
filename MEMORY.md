@@ -44,4 +44,6 @@ In the lower opening study, a 20-unit drop keeps the route perceptibly lower whi
 
 A short edge aligned toward a room wall without touching it can read as an isolated interior dash; test physical contact before treating wallward alignment as enough to make it a room feature.
 
+When a raised wall-contact dash was shortened from 41 to 24 units, it nearly merged into the inner wall seam; retain enough horizontal reach for the ledge to read independently.
+
 In a route-free room study, moving a short edge-aligned dash to touch the inner wall (same length and height) made it read as a small room feature; alignment alone left it floating. Check whether the contact reads as a ledge or merely merges with the wall.
